@@ -17,14 +17,8 @@ tup: Firebase CLI
 
 ## References and How to report bugs
 * Dialogflow documentation: [https://docs.dialogflow.com](https://docs.dialogflow.com).
-* If you find any issues, please open a bug on [GitHub](https://github.com/dialogflow/dialogflow-fulfillment-nodejs/issues).
-* Questions are answered on [StackOverflow](https://stackoverflow.com/questions/tagged/dialogflow).
-
-## How to make contributions?
-Please read and follow the steps in the CONTRIBUTING.md.
-
-## License
-See LICENSE.md.
+* If you find any issues, please open a bug on [GitHub](https://github.com/dmunicio/job-search/issues).
+* Questions about Dialogflow are answered on [StackOverflow](https://stackoverflow.com/questions/tagged/dialogflow).
 
 ## Terms
 Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Google APIs Terms of Service](https://developers.google.com/terms/).

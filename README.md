@@ -3,7 +3,7 @@
 ## Setup
 This example uses dialogflow fulfillment (v2 api) with firebase (and firestore queries). 
 
-tup: Firebase CLI 
+Setup: Firebase CLI 
 
 1. [Sign up for or sign into Dialogflow](https://console.dialogflow.com/api-client/#/login) and [create a agent](https://dialogflow.com/docs/agents#create_an_agent)
 1. Go to your agent's settings and [Restore from zip](https://dialogflow.com/docs/agents#export_and_import) using the `JobSearch.zip` in this directory (Note: this will overwrite your existing agent)

@@ -15,7 +15,7 @@ Setup: Firebase CLI
 1. Run `firebase deploy --only functions:dialogflowFulfillmentLibAdvancedSample`
 1. Paste the URL into your Dialogflow agent's fulfillment
 
-## References and How to report bugs
+## References and how to report bugs
 * Dialogflow documentation: [https://docs.dialogflow.com](https://docs.dialogflow.com).
 * If you find any issues, please open a bug on [GitHub](https://github.com/dmunicio/job-search/issues).
 * Questions about Dialogflow are answered on [StackOverflow](https://stackoverflow.com/questions/tagged/dialogflow).
